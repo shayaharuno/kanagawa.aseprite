@@ -1,0 +1,19 @@
+{
+  "name": "kanagawa-theme",
+  "displayName": "Kanagawa Theme",
+  "description": "Kanagawa theme hugely inspired by kanagawa.nvim",
+  "version": "0.7",
+  "author": { "name": "shaya", "email": "shayaharuno@gmail.com", "url": "" },
+  "contributors": [
+  ],
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Kanagawa", "path": "." }
+    ]
+  }
+}
