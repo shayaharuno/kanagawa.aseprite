@@ -8,7 +8,7 @@
 ![alt text](preview.png)
 
 
-Based on [Dark Mort HD](https://mortmort.itch,io/aseprite-darkmode) by MortMort. Hugely inspired by [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot. 
+Based on [Dark Mort HD](https://mortmort.itch.io/aseprite-darkmode) by MortMort. Hugely inspired by [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) by rebelot. 
 
 ## Installation
 - Download [latest release](https://github.com/shayaharuno/kanagawa.aseprite/releases/tag/stable)
