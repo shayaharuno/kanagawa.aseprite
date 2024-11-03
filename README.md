@@ -18,5 +18,5 @@ Based on [Dark Mort HD](https://mortmort.itch.io/aseprite-darkmode) by MortMort.
 
 ## Installation
 - Download [latest release](https://github.com/shayaharuno/kanagawa.aseprite/releases/tag/stable)
-- Open Aseprite extensions (Edit-Preferences-Extensions) and select kanagawa-theme.extension-aseprite
+- Open Aseprite extensions (Edit > Preferences > Extensions) and select kanagawa-theme.extension-aseprite
 - Select Kanagawa Theme. Use 100% UI and Screen scale
